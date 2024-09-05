@@ -1,0 +1,173 @@
+*{
+    text-decoration: none;
+}
+
+/* header styling  */
+
+.lavera {
+width: 7%;
+margin-left: 5rem;
+}
+
+.header {
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+    min-height: 5rem;
+    max-height: 9rem;
+}
+
+.image {
+    width: 6%;
+    top: 1.2rem;
+    position: absolute;
+}
+
+.ul-header {
+    display: flex;
+    list-style-type: none;
+    gap: 2rem;
+    margin-left: 24rem;
+    position: absolute;
+    top: 3rem;
+    
+}
+
+.strich {
+    width: 3%;
+    position: absolute;
+    top: 3rem;
+    margin-left: 45rem;
+}
+
+
+.navigation {
+    display: flex;
+    
+}
+
+.strich2 {
+    width: 3%;
+    position: absolute;
+    top: 3rem;
+    margin-left: 48.5rem;
+}
+
+.ul {
+    display: flex;
+    gap: 2rem;
+    list-style-type: none;
+    top: 3rem;
+    position: absolute;
+    margin-left: 58.5rem;
+}
+
+/* header styling ending */
+
+/* main styling */
+
+.imagemain {
+    width: 50%;
+    height: 33rem;
+    object-fit: cover;
+}
+
+.section-first {
+    background-color: lightblue;
+    width: 50%;
+    min-height: 33rem;
+    
+}
+
+.navigation-section {
+    display: flex;
+}
+
+.p {
+font-size: 3rem;
+color: rgb(71, 56, 56);
+position: absolute;
+top: 15rem;
+margin-left: 12rem;
+}
+
+.p2 {
+    position: absolute;
+    font-size: 1.3rem;
+    color: rgb(31, 22, 22);
+    top: 20.5rem;
+    margin-left: 12rem;
+}
+
+.button {
+    margin-top: 16rem;
+    border: none;
+    font-size: 1.4rem;
+    color: rgba(9, 81, 9, 0.623);
+    margin-left: 12rem;
+}
+
+.display-container {
+  
+}
+
+.activate {
+   
+}
+
+/* section 2 */
+
+.cooking {
+
+}
+
+.anders {
+    width: 60%;
+    
+
+}
+
+.anders2 {
+
+}
+
+.navi {
+    display: flex;
+    gap: 0.2cm;
+    margin-left: 37.3rem;
+    margin-top: 4.5rem;
+}
+
+/* figacaption */
+
+.figcaption3 {
+    color: grey;
+    
+}
+
+/* figcaption ending */
+
+.coldly {
+width: 55%;
+
+
+}
+
+.home-page-container {
+    
+   
+}
+
+.battlefield {
+    width: 55%;
+   
+}
+
+.battlefield2 {
+    width: 55%;
+   
+}
+
+.section--navigater {
+    display: flex;
+   margin-top: 4rem; 
+    margin-left: 12rem;
+}
